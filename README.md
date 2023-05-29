@@ -35,7 +35,7 @@ NFT ERC721/1155
 
 ETH, BSC, MATIC and other
 
-# price 0.3 ETH
+# price 1 ETH
 contact me on telegram @webswaps
 
 Support 10+ networks
