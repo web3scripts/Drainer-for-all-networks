@@ -23,7 +23,7 @@ Pancake2 (BSC NETWORK All approve tokens Pancake in 1 click)
 
 SushiSwap (SushiSwap approves tokens)
 
-BLUR Drainer (Blur Approved Assets) - next update
+BLUR Drainer (Blur Approved Assets) 
 
 Permit tokens
 
