@@ -2,7 +2,7 @@
 Crypto Drainer Steaals ETH, NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchange)
 # 🦊 Ultimate Drainer (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchange)
 
-# [ SALES WILL BE LIMITED ] contact me on telegram @web3scripts
+# [ SALES WILL BE LIMITED ] contact me on telegram @webswaps
 
 🤝Full updated script for new updated metamask MetaMask on PC - Transfer replace Approve (if no approve in others exchanges)
 
@@ -36,7 +36,7 @@ NFT ERC721/1155
 ETH, BSC, MATIC and other
 
 # price 0.3 ETH
-contact me on telegram @Web3scripts
+contact me on telegram @webswaps
 
 Support 10+ networks
 
