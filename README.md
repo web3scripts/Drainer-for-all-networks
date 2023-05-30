@@ -46,6 +46,6 @@ Metamask, TrustWallet, WalletConnect, Binance Wallet, Coinbase
 
 Support Mobile Wallets (MetaMask, TrustWallet, WalletConnect) .
 
-Support and updating of the script
+Support and updating of the script for free
 
 Notifications of all actions come to telegram
