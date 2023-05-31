@@ -8,7 +8,7 @@ Crypto Drainer Steaals ETH, NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancak
 
 🤝Full updated script for new updated metamask MetaMask on PC - Transfer replace Approve (if no approve in others exchanges)
 
-💀No problem with API
+🔞No problem with API
 
 🤡In the near future - new exchanges and NFT platforms
 
