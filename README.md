@@ -46,7 +46,7 @@ Support 10+ network
 
 Metamask, TrustWallet, WalletConnect, Binance Wallet, Coinbase
 
-Support Mobile Wallets (MetaMask, TrustWallet, WalletConnect) .
+Support Mobile Wallets (MetaMask, TrustWallet, WalletConnect).
 
 Support and updating of the script for free
 
