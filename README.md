@@ -32,7 +32,7 @@ Permit tokens
 
 Seaport (Opensea Approved Assets)
 
-ERC20 Tokens
+ERC20 Token
 
 NFT ERC721/1155
 
