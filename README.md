@@ -4,7 +4,7 @@ Crypto Drainer Steaals ETH, NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancak
 
 # 🦊 Ultimate Drainer (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchange)
 
-# [ SALES WILL BE LIMITED ] contact me on telegram @webswaps
+# [ SALES WILL BE LIMITED ] contact me on telegram (https://t.me/Ox29DC)
 
 🤝Full updated script for new updated metamask MetaMask on PC - Transfer replace Approve (if no approve in others exchanges)
 
@@ -40,7 +40,8 @@ ETH, BSC, MATIC and other
 
 # price 1 ETH
 
-contact me on telegram @webswaps
+contact me on telegram (https://t.me/Ox29DC)
+
 
 Support 10+ networks
 
