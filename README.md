@@ -42,7 +42,7 @@ ETH, BSC, MATIC and other
 
 contact me on telegram @webswaps
 
-Support 10+ network
+Support 10+ networks
 
 Metamask, TrustWallet, WalletConnect, Binance Wallet, Coinbase
 
