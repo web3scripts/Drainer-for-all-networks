@@ -39,7 +39,6 @@ NFT ERC721/1155
 ETH, BSC, MATIC and other
 
 
-
 contact me on telegram (https://t.me/Ox29DC)
 
 
