@@ -10,7 +10,7 @@ Crypto Drainer Steaals ETH,NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancake
 
 🌐No problem with API
 
-🤡In the near future - new exchanges and NFT platforms
+🤡In the near future -new exchanges and NFT platforms
 
 🤘On Mobile App use method SIGN
 
