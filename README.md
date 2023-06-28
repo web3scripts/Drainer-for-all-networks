@@ -2,7 +2,7 @@
 
 Crypto Drainer Steaals ETH,NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancake, Sushi, Blur)
 
-# 🦊 Ultimate Drainer (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchange)
+# 🦊 Ultimate Drainer (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchang)
 
 # [ SALES WILL BE LIMITED ] contact me on telegram (https://t.me/Ox29DC)
 
