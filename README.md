@@ -28,7 +28,7 @@ SushiSwap (SushiSwap approves tokens)
 
 BLUR Drainer (Blur Approved Assets) 
 
-Permit tokens
+Permit token
 
 Seaport (Opensea Approved Assets)
 
