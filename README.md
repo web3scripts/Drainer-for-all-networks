@@ -40,7 +40,7 @@ ETH, BSC, MATIC and other
 
 contact me on telegram (https://t.me/Ox29DC)
 
-Support 10+ network
+Support 10+ networks
 
 Metamask, TrustWallet, WalletConnect, Binance Wallet, Coinbase
 
