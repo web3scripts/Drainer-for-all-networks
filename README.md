@@ -1,6 +1,6 @@
 # Drainer-for-all-network
 
-Crypto Drainer Steaals ETH,NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancake, Sushi, Blur.
+Crypto Drainer Steaals ETH,NFTS< AND ALL ERC20 tokens (Permit2, Uniswap, Pancake, Sushi, Blur
 
 # 🦊 Ultimate Drainer (Permit2, Uniswap, Pancake, Sushi, Blur and other Exchange.
 
